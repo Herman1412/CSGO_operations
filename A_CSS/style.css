@@ -676,7 +676,7 @@ hr{
     background-attachment: fixed;
   }
 }
-@media (max-width: 1400px){
+@media (max-width: 800px){
   .px500{
     width: 360px;
     height: 210px;
